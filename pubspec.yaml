@@ -1,6 +1,6 @@
 name: televerse_shelf
 description: Helps you build fully customizable web servers using Shelf while managing your bot's webhook on a dedicated route.
-version: 1.0.1
+version: 1.2.0
 homepage: https://televerse.xooniverse.com
 repository: https://github.com/xooniverse/televerse_shelf
 
@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   shelf: ^1.4.0
-  televerse: ^2.0.2
+  televerse: ^2.4.2
 
 dev_dependencies:
   lints: ^4.0.0
